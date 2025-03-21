@@ -13,6 +13,7 @@ This project automates the data transformation and mapping process using Python 
 💡 SQL-Driven Data Processing – Uses PostgreSQL/MySQL queries for efficient data extraction, filtering, and transformation.
 📉 Reduced Manual Effort – Automates attribute mapping and validation, reducing manual work by 35%.
 📈 Improved Efficiency – Cuts validation time by 30% and enhances data accuracy for eCommerce syndication.
+
 🛠 Tech Stack
 This project leverages Python and SQL for efficient data transformation and integration:
 
@@ -24,9 +25,11 @@ Data Cleaning & Validation
 Pandas & NumPy: Data wrangling, transformation, and quality checks
 SQLAlchemy: Database connection and query execution
 Regex & String Matching: Attribute alignment and data standardization
+
 Visualization & Reporting
 Tableau / Power BI: Dashboard for tracking data quality and integration success
 Excel & Google Sheets: Backup validation and data comparison
+
 📌 Use Case Scenarios
 🛒 eCommerce Businesses – Automate product catalog syndication across multiple marketplaces (Amazon, Shopify, Walmart, etc.).
 📦 Retail & Manufacturers – Standardize product attributes, ensuring accurate and complete data across different platforms.
