@@ -1,0 +1,4 @@
+{
+  "api_url": "https://fakestoreapi.com/products",
+  "database": "sqlite:///ecommerce_data.db"
+}
